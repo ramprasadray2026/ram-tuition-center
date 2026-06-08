@@ -1,0 +1,34 @@
+# RAM Tuition Center - Direct APK Download
+
+## 🎯 GET THE APP DIRECTLY
+
+### **Method 1: Using GitHub Raw Content (WORKING)**
+
+```
+https://github.com/ramprasadray2026/ram-tuition-center/raw/main/app-release.apk
+```
+
+### **Method 2: Using Releases Page**
+
+Go to: https://github.com/ramprasadray2026/ram-tuition-center/releases
+
+### **Method 3: Clone & Extract**
+
+```bash
+git clone https://github.com/ramprasadray2026/ram-tuition-center.git
+cd ram-tuition-center
+ls -la app-release.apk
+```
+
+---
+
+## 📲 INSTALLATION
+
+1. Download `app-release.apk`
+2. Enable Unknown Sources in Settings
+3. Tap APK to install
+4. Open app!
+
+---
+
+**Ready to use!** 🚀
